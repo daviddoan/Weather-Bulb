@@ -20,4 +20,4 @@ I took apart a lightbulb and replaced the old filament with my PCB, which is pro
 The python program runs on your computer to send information to the PCB, which will then light depending on the specified local weather.
 
 
-![Document](http://i.imgur.com/aOrUKHG.png?1)
+![Document](http://i.imgur.com/sGzltYj.png?1)
