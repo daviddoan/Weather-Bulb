@@ -1,5 +1,11 @@
 Weather-Bulb
 ============
+APIs
+
+pyOWM
+https://github.com/csparpa/pyowm
+
+============
 
 // A LED lightbulb that pulses different patterns depending on local weather.
 
